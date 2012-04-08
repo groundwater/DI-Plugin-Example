@@ -1,5 +1,7 @@
 Play [2.0] with Dependency Injection
 ====================================
 
-Play and Akka break down your application into orthogonal pieces pretty well.
-To compliment that, 
+This example pairs dependency injection with Play plugins.
+
+ 1. Run `sbt run` to inject the full plugins
+ 2. Run `sbt test` to inject test plugins
