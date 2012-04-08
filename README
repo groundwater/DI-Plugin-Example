@@ -1,0 +1,5 @@
+Play [2.0] with Dependency Injection
+====================================
+
+Play and Akka break down your application into orthogonal pieces pretty well.
+To compliment that, 
